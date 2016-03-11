@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPS-MojaTrasa</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_historia">Historia</string>
+    <string name="title_activity_informacje">Informacje</string>
+    <string name="title_activity_ustawienia">Ustawienia</string>
+    
+    <string name="predkosc">Prędkość</string>
+    <string name="czas">Czas</string>
+    <string name="dystans">Dystans</string>
+    <string name="wyszukiwanie">Wyszukiwanie....</string>
+    <string name="dlugosc">długość geograficzna</string>
+    <string name="szerokosc">szerokość geograficzna</string>
+    
+    <string name="info">Informacja</string>
+    <string name="autor">Autor: Jakub Kotłowski ( Jakkot93 )\nKontakt: jakkot93@gmail.com</string>
+    <string name="zasada">Zasada działania</string>
+    <string name="pierwszy">1. Włącz GPS\n2. Poczekaj, aż telefon odbierze sygnał z GPS\n3. Gdy wyświetli sie ( GPS OK ) kliknij:</string>
+    <string name="drugi">    aby uruchomić lub wznowić trening.\n4.Chcąc zakończyc i zapisać trening kliknij:</string>
+    <string name="trzeci">5.Aby włączyc pauze kliknij:</string>
+    <string name="czwarty">6. Wyniki zapisywane są do bazy danych,\n    zakładka ( Historia ) na głównej stronie.</string>
+    
+    <string name="statystyki">STATYSTYKI</string>
+    <string name="lczas">Łączny czas:</string>
+    <string name="ldys">Łączny dystans:</string>
+    
+    <string name="AB"></string>
+    <string name="historia">Historia</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="informacje">Informacje</string>
+    <string name="pomiary">Pomiary</string>
+    <string name="wylacz">Wyłącz</string>
+    <string name="wylaczTak">TAK</string>
+    <string name="wylaczNie">NIE</string>
+    
+    <string name="gps">Ustawienie dokładności GPS</string>
+    <string name="jednostka">Ustawienie jednostki</string>
+    <string name="zapis">Zapis</string>
+    
+    <string name="radio1">Domyślne</string>
+    <string name="radio2">Dokładne</string>
+    <string name="radio3">Oszczędzanie baterii</string>
+    <string name="radio4">km/h</string>
+    <string name="radio5">mph</string>
+
+</resources>

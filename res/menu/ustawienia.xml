@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    	  xmlns:tools="http://schemas.android.com/tools">
+    
+
+	    <item android:id="@+id/informacje"
+        	android:title="@string/informacje"
+          	android:showAsAction="ifRoom" />
+     
+    		<item android:id="@+id/ustawienia"
+        	android:title="@string/ustawienia"
+          	android:showAsAction="ifRoom" />
+    		
+    		<item android:id="@+id/wylacz"
+        	android:title="@string/wylacz"
+          	android:showAsAction="ifRoom" >
+				<menu>
+ 	       		
+ 	       			<item android:id="@+id/wylaczTak"
+        			android:title="@string/wylaczTak"
+          			android:showAsAction="ifRoom" />
+    		
+    				<item android:id="@+id/wylaczNie"
+        			android:title="@string/wylaczNie"
+          			android:showAsAction="ifRoom" />
+    		
+    			</menu>
+			</item> 
+	    
+	</menu>
